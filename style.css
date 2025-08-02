@@ -10,4 +10,6 @@ body{
 }
 button{
     background-color: #64A712;
+    color: white;
+    font-family: "Chakra Petch", sans-serif;
 }
